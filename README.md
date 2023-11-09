@@ -1,1 +1,1 @@
-# luci-app-openclash
+luci-app-openclash

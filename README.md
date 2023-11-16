@@ -1,1 +1,1 @@
-luci-app-openclash
+openclash-分流规则
